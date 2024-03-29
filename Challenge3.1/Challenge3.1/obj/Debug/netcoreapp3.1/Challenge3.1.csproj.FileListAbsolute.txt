@@ -1,0 +1,16 @@
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.exe
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.deps.json
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.runtimeconfig.json
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.dll
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\bin\Debug\netcoreapp3.1\Challenge3.1.pdb
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3._1.Challenge3.resources
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.csproj.GenerateResource.cache
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.AssemblyInfo.cs
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.dll
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.pdb
+C:\Users\vickm\source\repos\Challenge3.1\Challenge3.1\obj\Debug\netcoreapp3.1\Challenge3.1.genruntimeconfig.cache
